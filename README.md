@@ -1,2 +1,2 @@
-# Heart-disease-prediction
+# weather app
 html , css , python
